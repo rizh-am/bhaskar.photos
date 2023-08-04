@@ -6,6 +6,6 @@
 
 ///NOT THE FINAL DRAFT///
 
-# bhaskar.photos
+Just has a NavBar and some tests for using the Instagram API
 
-///This is a test commit///
+Will be updated soon...
