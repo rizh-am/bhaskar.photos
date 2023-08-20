@@ -6,6 +6,6 @@
 
 ///NOT THE FINAL DRAFT///
 
-Just has a NavBar and some tests for using the Instagram API
+Just has a NavBar and some tests using some help from GitHub
 
 Will be updated soon...
